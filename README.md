@@ -2,7 +2,7 @@
 使用OpenCV库进行图像处理的代码<br>
 [了解GitHub-GFM语法规则](https://github.com/guodongxiaren/README "了解GitHub-GFM语法规则")<br>
 
----
+--- hello world
 ***
 
 
