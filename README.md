@@ -9,6 +9,7 @@
 * [OpenCV-Python教程](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
 * [人体姿态估计-openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 * [LabelImage-图像分割标注工具](https://github.com/rachelcao277/LabelImage)
+* [face++人脸比较](https://www.faceplusplus.com/face-comparing/)
 
 
 hello|world|c++
