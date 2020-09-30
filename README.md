@@ -20,8 +20,8 @@ hello|world|c++
 
 #### Play项目
 ---
-- [ ] `YOLO训练模型`
-  https://blog.csdn.net/weixin_42731241/article/details/81352013
+- [ ] `YOLO训练模型`<br>
+  * https://blog.csdn.net/weixin_42731241/article/details/81352013
 - [x] `利用yolo进行目标检测`
 - [ ] `人脸检测`
 - [x] `SVM实现minst数字识别`
