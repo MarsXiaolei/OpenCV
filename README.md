@@ -11,6 +11,7 @@
 * [人体姿态估计-openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 * [LabelImage-图像分割标注工具](https://github.com/rachelcao277/LabelImage)
 * [face++人脸比较](https://www.faceplusplus.com/face-comparing/)
+* [yolo-实时目标检测](https://pjreddie.com/darknet/yolo/)
 
 
 hello|world|c++
